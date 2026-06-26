@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+.pytest_cache/
+*.spec.bak
+sendmail_settings.json
+sent_log.csv
